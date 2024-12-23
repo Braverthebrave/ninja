@@ -1,4 +1,4 @@
-# ninja
+# NINJA 
 messaging app thingy based on pythnon blah nbalh blah
 here be da commands
 
